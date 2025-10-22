@@ -1,0 +1,25 @@
+body {
+  color: rgb(9, 59, 59);
+  background: rgb(5, 232, 248);
+  margin: 0px;
+  font-family: "Playwrite Deutschland Schulausgangschrift", sans-serif;
+}
+
+header {
+  border-bottom: solid 2px blueviolet;
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(130, 47, 208);
+}
+
+section {
+  background: rgb(130, 47, 208);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.chamada texto {
+  margin-right: 5%;
+}
