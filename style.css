@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  border-bottom: solid 2px blueviolet;
+  border-bottom: solid 2px rgb(100, 9, 185);
   padding: 20px;
   font-size: 32px;
   color: rgb(130, 47, 208);
@@ -28,6 +28,9 @@ hi{
 }
 p{
   font-size: 20px;
+}
+img{
+  height: 200px;
 }
 .categoria videos{
   display: flex;
