@@ -32,10 +32,8 @@ p{
 }
 
 .categoria videos{
-  display: flex;
-  overflow-x: auto;
-  gap: 10px;
-
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .categoria video{
   displey-flex;
