@@ -47,7 +47,7 @@ p{
   height: 200px;
 
 }
-.categoria-video img:houver{
+.categoria-video img:hover{
   opacity: 1.0;
   border: 1px solid lightpink;
 }
