@@ -3,6 +3,7 @@ body {
   background: rgb(5, 232, 248);
   margin: 0px;
   font-family: "Playwrite Deutschland Schulausgangschrift", sans-serif;
+  margin-bottom: 100px;
 }
 
 header {
@@ -29,9 +30,7 @@ hi{
 p{
   font-size: 20px;
 }
-img{
-  height: 200px;
-}
+
 .categoria videos{
   display: flex;
   overflow-x: auto;
@@ -41,4 +40,17 @@ img{
 .categoria{
   padding-left: 20px;
   padding-left: 20px;
+  margin-top: 50px;
+}
+. .categoria video img{
+  opacity: 0.5;
+  height: 200px;
+
+}
+.categoriavideo img:houver{
+  opacity: 1.0;
+  border: 1px solid lightpink;
+}
+.categoria h2{
+  color: brown;
 }
