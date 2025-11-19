@@ -30,7 +30,7 @@ h1{
 p{
   font-size: 20px;
 } 
-.categoriavideo{
+.categoria-video{
   display:flex;
   overflow-x: auto;
   gap: 10px;
@@ -42,13 +42,13 @@ p{
   margin-top: 50px;
   }
 
-.categoria video img{
+.categoria-video img{
   opacity: 0.5;
   height: 200px;
 
 }
-.categoriavideo img:houver{
-  opacity: 0.1;
+.categoria-video img:houver{
+  opacity: 1.0;
   border: 1px solid lightpink;
 }
 .categoria h2{
