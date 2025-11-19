@@ -48,7 +48,7 @@ p{
 
 }
 .categoriavideo img:houver{
-  opacity: 1.0;
+  opacity: 0.1;
   border: 1px solid lightpink;
 }
 .categoria h2{
